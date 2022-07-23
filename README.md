@@ -1,1 +1,1 @@
-# SIMPLE-CALCULATOR
+A basic calculator which is made using C
